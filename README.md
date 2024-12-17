@@ -30,7 +30,8 @@ The system is designed around a scalable architecture powered by Kubernetes to o
 - Kubernetes
 - Node.js (v14 or above)
 - NPM (or Yarn)
-
+### References- 
+1.credits -  https://github.com/hkirat
 ### Step-by-step guide
 
 1. **Clone the repository:**
@@ -66,3 +67,4 @@ minikube service devcloud-service
 This will open the browser with the DevCloud editor.
 
 For cloud-based Kubernetes environments (like AWS EKS, GKE, or Azure AKS), ensure that the service is exposed to an external IP and navigate to the provided URL to access the DevCloud editor.
+
